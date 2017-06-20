@@ -1,0 +1,46 @@
+main {
+	width: 800px;
+	font-size: 0;
+	padding: 30px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.top {
+	width: 50%;
+	display: inline-block;
+	height: 200px;
+	font-size: 0;
+}
+
+.bottom {
+	width: 33.33%;
+	display: inline-block;
+	height: 300px;
+	font-size: 0;
+}
+
+.greenbox {
+	border: 1px solid black;
+	background-color: green;
+}
+
+.bluebox {
+	border: 1px solid black;
+	background-color: blue;
+}
+
+.graybox {
+	border: 1px solid black;
+	background-color: gray;
+}
+
+.blackbox {
+	border: 1px solid black;
+	background-color: black;
+}
+
+.orangebox {
+	border: 1px solid black;
+	background-color: orange;
+}
